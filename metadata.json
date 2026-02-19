@@ -1,0 +1,5 @@
+{
+  "name": "ZenCanvas",
+  "description": "A minimalist, Japanese-inspired AI image studio powered by Gemini 2.5 Flash Image. Generate and edit images with natural language prompts in a productive, organic atmosphere.",
+  "requestFramePermissions": []
+}
